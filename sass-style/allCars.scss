@@ -1,0 +1,39 @@
+body{
+    background-color: #F4F6FF;
+}
+.loginCard{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba($color: #000000, $alpha: 0.9);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+.carCard{
+    border: transparent;
+    border-radius: 20px;
+    background-color: #fff;
+    img{
+        width: 400px;
+        height: 250px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+}
+.searchCont{
+    .searchInput{
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        border: none;
+    }
+    .searchBtnCont{
+        border-top-right-radius: 999999px;
+        border-bottom-right-radius: 999999px;
+    }
+}
+.show{
+    display: block !important;
+}
+

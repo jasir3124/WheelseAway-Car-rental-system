@@ -1,0 +1,10 @@
+[18-May-2024 08:14:41 UTC] Received users: [{"carId":22}]
+[18-May-2024 08:14:41 UTC] Decoded users: Array
+(
+    [0] => Array
+        (
+            [carId] => 22
+        )
+
+)
+

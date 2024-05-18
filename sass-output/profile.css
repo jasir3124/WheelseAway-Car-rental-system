@@ -1,0 +1,41 @@
+.header {
+  height: 200px;
+}
+
+.loginCard {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.active {
+  color: green;
+}
+
+.sidebar {
+  height: 400px;
+  width: 300px;
+}
+
+.passwordInput {
+  width: 95%;
+}
+
+.rentedCarImage {
+  width: 400px;
+}
+
+.accountInfo {
+  display: block;
+}
+
+.rentedCar {
+  display: none;
+}
+
+/*# sourceMappingURL=profile.css.map */

@@ -1,0 +1,13 @@
+body{
+    background-image: url(../images/signUp-page/background\ image.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 100dvh;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+  transition: background-color 5000s;
+  -webkit-text-fill-color: #fff !important;
+}
